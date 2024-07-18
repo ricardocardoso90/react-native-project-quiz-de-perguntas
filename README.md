@@ -1,8 +1,14 @@
-# React + Vite
+# Projeto Quiz de Perguntas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto desenvolvido durante o curso Ignite Lab da Rocketseat.
 
-Currently, two official plugins are available:
+Tecnologias utilizadas: React + TypeScript.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Instalação:
+
+- `npm create vite@latest`
+- `npm i ou npm install`
+
+### Para rodar:
+
+- `npm run dev`
