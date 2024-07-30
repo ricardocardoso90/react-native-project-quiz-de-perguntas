@@ -1,14 +1,15 @@
-# Projeto Quiz de Perguntas
+## Projeto: Quiz de Perguntas
 
-Projeto desenvolvido durante o curso Ignite Lab da Rocketseat.
+**Tecnologias utilizadas:**
 
-Tecnologias utilizadas: React + TypeScript.
+- [HTML]()
+- [CSS]()
+- [Javascript]()
 
-# Instalação:
+## Instalação:
 
-- `npm create vite@latest`
 - `npm i ou npm install`
 
-### Para rodar:
+## Para rodar:
 
-- `npm run dev`
+- `Live Server`
